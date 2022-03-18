@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe917404f56221ccc015966aa7e012593bb55e3ee",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe917404f56221ccc015966aa7e012593bb55e3ee",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Boring Stones NFT",
+  "SYMBOL": "TBSNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theboringstones",
+  "SHOW_BACKGROUND": true
+}
